@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Educhat</string>
+    <string name="action_settings">Settings</string>
+    <string name="request_to_all_parents_please_submit_your_adhaar_card">Request to all parents please submit your Aadhaar card in your school administrative office.</string>
+
+    <string-array name="home_page_tab_titles">
+        <item>ANNOUNCEMENTS</item>
+        <item>CONTACTS</item>
+    </string-array>
+
+</resources>
